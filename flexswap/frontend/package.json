@@ -1,0 +1,22 @@
+{
+  "name": "flexswap-frontend",
+  "version": "1.0.0",
+  "description": "FlexSwap Gift Card Exchange — React Frontend",
+  "type": "module",
+  "scripts": {
+    "dev":     "vite",
+    "build":   "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react":        "^18.2.0",
+    "react-dom":    "^18.2.0",
+    "react-router-dom": "^6.14.0"
+  },
+  "devDependencies": {
+    "@types/react":     "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.4.0"
+  }
+}
